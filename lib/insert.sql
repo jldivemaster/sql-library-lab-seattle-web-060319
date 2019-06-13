@@ -1,8 +1,8 @@
-INSERT INTO series (title, author_id, sub_genre_id) VALUES ("Henry Pooter", 2, 1);
-INSERT INTO series (title, author_id, sub_genre_id) VALUES ("The Da Vinci Explicit Instructions", 1, 2);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("Henry Pooter", 2, 1);
+INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Da Vinci Explicit Instructions", 1, 2);
 
-INSERT INTO sub_genres (name) VALUES ("fantasy");
-INSERT INTO sub_genres (name) VALUES ("thriller");
+INSERT INTO subgenres (name) VALUES ("fantasy");
+INSERT INTO subgenres (name) VALUES ("thriller");
 
 INSERT INTO authors (name) VALUES ("Don Blue");
 INSERT INTO authors (name) VALUES ("That British Lady");
